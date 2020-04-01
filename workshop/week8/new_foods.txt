@@ -1,0 +1,7 @@
+gnocchi
+corba
+grah
+rice
+noodles
+chicken soup
+pizza

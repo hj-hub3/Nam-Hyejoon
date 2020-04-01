@@ -1,0 +1,44 @@
+{
+
+    "Black Colour": {
+        "prefix": "Black",
+        "body": "\\033[30m",
+        "description": "Black colour",
+    },
+
+    "Red Colour": {
+        "prefix": "red",
+        "body": "\\033[31m",
+        "description": "Red colour",
+    },
+
+    "Purple Colour": {
+        "prefix": "purple",
+        "body": "\\033[35m",
+        "description": "Purple colour"
+    },
+
+    "Green Colour": {
+        "prefix": "green",
+        "body": "\\033[32m",
+        "description": "Green colour",
+    },
+
+    "Brown Colour": {
+        "prefix": "brown",
+        "body": "\\033[33m",
+        "description": "Brown colour",
+    },
+
+    "Blue Colour": {
+        "prefix": "blue",
+        "body": "\\033[34m",
+        "description": "Blue colour",
+    },
+
+    "Cyan Colour": {
+        "prefix": "cyan",
+        "body": "\\033[37m",
+        "description": "Cyan colour",
+    },
+}
